@@ -44,7 +44,7 @@
 </p>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=winisc.winisc&left_color=gray &right_color=blue" width="80" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=winisc.winisc&left_color=gray&right_color=blue" width="80" />
 </div>
 
 <div align="center">
