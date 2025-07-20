@@ -5,14 +5,14 @@
 </div>
 
 <p align="left">
-  Desenvolvedor FullStack em constante evolução, comprometido a criar soluções modernas, funcionais e com propósito. <br>
+  FullStack developer in constant evolution, committed to creating modern, functional and purposeful solutions. <br>
 </p>
 
 ## Sobre mim
 
-- 🖥️ Desenvolvedor FullStack
-- 🎓 Graduando em Ciência da Computação
-- 📚 Aluno de Engenharia de Software na Escola 42 São Paulo
+- 🖥️ FullStack Developer
+- 🎓 Computer Science Undergraduate
+- 📚 Software Engineering Student at Escola 42 São Paulo
 
 ---
 
@@ -22,15 +22,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=winis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winisc&layout=compact&langs_count=6&theme=dark"/>
 
-## Tecnologias e linguagens 💻
+## Technologies and languages 💻
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,lua,unity,docker)](https://skillicons.dev)
 
-### 🚀 Frameworks e bibliotecas
+### 🚀 Frameworks and libraries
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,tailwind,mysql,postgres)](https://skillicons.dev)
 
-### 🛠️ Ferramentas de desenvolvimento
+### 🛠️ Development Tools
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)
 
@@ -51,4 +51,4 @@
   
 [![Winicius github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=winisc&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://streak-stats.demolab.com?user=winisc&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+<img src="https://streak-stats.demolab.com?user=winisc&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
