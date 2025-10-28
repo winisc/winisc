@@ -24,7 +24,7 @@
 
 ## Technologies and languages 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,lua,unity,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,lua,unity,docker)](https://skillicons.dev)
 
 ### 🚀 Frameworks and libraries
 
