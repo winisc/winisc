@@ -8,7 +8,7 @@
   FullStack developer in constant evolution, committed to creating modern, functional and purposeful solutions. <br>
 </p>
 
-## Sobre mim
+## About me
 
 - 🖥️ FullStack Developer
 - 🎓 Computer Science Undergraduate
