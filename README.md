@@ -12,15 +12,9 @@
 
 ---
 
-## ⭐ GitHub Stats
-
-<a href="https://github.com/winisc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=winisc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winisc&layout=compact&langs_count=6&theme=dark"/>
-
 ## Technologies and languages 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,lua,unity,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,lua,unity,python,docker,linux)](https://skillicons.dev)
 
 ### 🚀 Frameworks and libraries
 
@@ -44,7 +38,3 @@
 </div>
 
 <div align="center">
-  
-[![Winicius github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=winisc&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img src="https://streak-stats.demolab.com?user=winisc&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
