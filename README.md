@@ -1,9 +1,5 @@
 # Hi, my name is Winicius Silveira!
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
 <p align="left">
   FullStack developer in constant evolution, committed to creating modern, functional and purposeful solutions. <br>
 </p>
